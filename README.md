@@ -14,3 +14,12 @@ Praktikum 2 - Basic Kotlin
 <img src="screenshots/Screenshot 2026-09-25 220503.png" />
 <img src="screenshots/Screenshot 2026-09-25 220520.png" />
 <img src="screenshots/Screenshot 2026-09-25 220540.png" />
+
+## Loops & Functions
+
+<img src="screenshots/Screenshot 2026-09-25 220555.png" />
+<img src="screenshots/Screenshot 2026-09-25 220611.png" />
+<img src="screenshots/Screenshot 2026-09-25 220628.png" />
+<img src="screenshots/Screenshot 2026-09-25 220645.png" />
+<img src="screenshots/Screenshot 2026-09-25 220707.png" />
+<img src="screenshots/Screenshot 2026-09-25 220721.png" />

@@ -28,3 +28,9 @@ Praktikum 2 - Basic Kotlin
 
 <img src="screenshots/Screenshot 2026-09-25 220734.png" />
 <img src="screenshots/Screenshot 2026-09-25 221007.png" />
+
+## Null Safety
+
+<img src="screenshots/Screenshot 2026-09-25 221020.png" />
+<img src="screenshots/Screenshot 2026-09-25 221034.png" />
+<img src="screenshots/Screenshot 2026-09-25 221102.png" />

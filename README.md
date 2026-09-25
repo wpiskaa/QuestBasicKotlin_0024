@@ -7,3 +7,10 @@ Praktikum 2 - Basic Kotlin
 <img src="screenshots/Screenshot 2026-09-25 220357.png" />
 <img src="screenshots/Screenshot 2026-09-25 220419.png" />
 <img src="screenshots/Screenshot 2026-09-25 220432.png" />
+
+## Conditional IF & When
+
+<img src="screenshots/Screenshot 2026-09-25 220449.png" />
+<img src="screenshots/Screenshot 2026-09-25 220503.png" />
+<img src="screenshots/Screenshot 2026-09-25 220520.png" />
+<img src="screenshots/Screenshot 2026-09-25 220540.png" />
